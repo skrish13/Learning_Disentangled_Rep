@@ -1,4 +1,4 @@
-# Learning Disentangled Representations Workshop @ NIPS 2017 - Unofficial workshop book (consisting of accepted papers)
+# Learning Disentangled Representations Workshop - NIPS 2017 (Unofficial workshop book)
 
 Taken from the official workshop website - https://sites.google.com/view/disentanglenips2017
 
